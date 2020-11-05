@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* .sidebar{
+    border: 2px solid green;
+    height:600px;
+    width: 25%;
+}
+.mainbar{
+    border: 2px solid green;
+    width: 72%;
+    height: 600px;
+    margin-left: 26%;
+    margin-top: -603px;
+} */
+body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.searchbar{
+    height: 80px;
+    width: 100%;
+    border: 2px solid green;
+}
+.mainbar{
+    width: 60%;
+    height: 600px;
+    border: 2px solid green;
+    margin-top: 5px;
+}
+.sidebar{
+    width: 38%;
+    height: 600px;
+    float: right;
+    margin-top: -605px;
+    border: 2px solid green;
+}
+.a1{
+    height: 75px;
+    width: 15%;
+    border: 2px solid red;
+    /* margin-top: 0.1%; */
+}
+.a2{
+    height: 75px;
+    width: 50%;
+    border: 2px solid red;
+    margin-left: 17%;
+    margin-top: -80px;
+}
+.a3{
+    height: 75px;
+    width: 30%;
+    border: 2px solid red;
+    float: right;
+    margin-top: -80px;
+    margin-right: 5px;
+}
+.b1{
+    height: 350px;
+    width: 90%;
+    border: 2px solid blue;
+    margin-left: 9.3%;
+    margin-top: 45px;
+}
+.b2{
+    height: 80px;
+    width: 90%;
+    margin-left: 9.3%;
+    border: 2px solid blue;
+}
+.b3{
+    height: 80px;
+    width: 90%;
+    margin-left: 9.3%;
+    border: 2px solid blue;
+}
+.c{
+    height: 50px;
+    width: 100%;
+    border: 2px solid yellow;
+}
+.c1{
+    height: 120px;
+    width: 99%;
+    border: 2px solid yellow;
+    margin-top: 5px;
+}
+.c2{
+    height: 120px;
+    width: 99%;
+    border: 2px solid yellow;
+    margin-top: 5px;
+}
+.c3{
+    height: 120px;
+    width: 99%;
+    border: 2px solid yellow;
+    margin-top: 5px;
+}
+.c4{
+    height: 120px;
+    width: 99%;
+    border: 2px solid yellow;
+    margin-top: 5px;
+}
+/* .b1 div{
+    width: 100%;
+    height: 50px;
+    border-top: hotpink;
+} */
